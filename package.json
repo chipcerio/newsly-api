@@ -1,0 +1,27 @@
+{
+  "name": "newsly-rest-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "handler.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chipcerio/newsly-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chipcerio/newsly-api/issues"
+  },
+  "homepage": "https://github.com/chipcerio/newsly-api#readme",
+  "devDependencies": {
+    "serverless-offline": "^3.20.3"
+  },
+  "dependencies": {
+    "dotenv": "^5.0.1",
+    "mongoose": "^5.0.16"
+  }
+}
